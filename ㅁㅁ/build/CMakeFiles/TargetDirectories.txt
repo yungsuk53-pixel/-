@@ -1,0 +1,3 @@
+/workspaces/-/build/CMakeFiles/CozyVillage.dir
+/workspaces/-/build/CMakeFiles/edit_cache.dir
+/workspaces/-/build/CMakeFiles/rebuild_cache.dir
